@@ -60,6 +60,6 @@ This repository is continuously updating...
 
 - A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. *CVPR 2022*. [[paper]](https://arxiv.org/pdf/2203.04287).
 
-- ConSLT: A Token-level Contrastive Framework for Sign Language Translation. *arxiv 2022*. [[paper]](https://arxiv.org/pdf/2204.04916).
+- ConSLT: A Token-level Contrastive Framework for Sign Language Translation. *Arxiv 2022*. [[paper]](https://arxiv.org/pdf/2204.04916).
 
 - Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. *Findings of NAACL2022*. [[paper]](https://arxiv.org/pdf/2204.05953). [[code]](https://github.com/yongcaoplus/TIN-SLT).
