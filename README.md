@@ -3,6 +3,10 @@ This is a paper list for **sign language translation**.
 
 This repository is continuously updating...
 
+### Survey
+
+- Machine Translation from Signed to Spoken Languages: State of the Art and Challenges. *Arxiv 2022*. [[paper]](https://arxiv.org/abs/2202.03086).
+
 ### Datasets
 
 - RWTHPHOENIX-Weather 2014T: Neural Sign Language Translation. *CVPR 2018*. [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf). [[code]](https://github.com/neccam/nslt).
