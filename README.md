@@ -67,3 +67,4 @@ This repository is continuously updating...
 - ConSLT: A Token-level Contrastive Framework for Sign Language Translation. *Arxiv 2022*. [[paper]](https://arxiv.org/pdf/2204.04916).
 
 - Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. *Findings of NAACL2022*. [[paper]](https://arxiv.org/pdf/2204.05953). [[code]](https://github.com/yongcaoplus/TIN-SLT).
+- Keypoint based Sign Language Translation without Glosses. *IEEE Sensors Journals 2022*. [[paper]](https://arxiv.org/pdf/2204.10511).
