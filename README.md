@@ -14,6 +14,7 @@ This repository is continuously updating...
 - CSL-Daily: Improving Sign Language Translation With Monolingual Data by Sign Back-Translation. *CVPR 2021*. [[paper]](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.pdf).
 
 - How2Sign: How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language. *CVPR 2021*. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf). [[dataset]](https://how2sign.github.io/)
+- OpenASL: Open-Domain Sign Language Translation Learned from Online Video. *Arxiv 2022*. [[paper]](https://arxiv.org/abs/2205.12870). [[dataset]](https://github.com/chevalierNoir/OpenASL)
 
 ### Paper List
 
