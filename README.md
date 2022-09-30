@@ -16,6 +16,8 @@ This repository is continuously updating...
 - How2Sign: How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language. *CVPR 2021*. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.pdf). [[dataset]](https://how2sign.github.io/)
 - OpenASL: Open-Domain Sign Language Translation Learned from Online Video. *Arxiv 2022*. [[paper]](https://arxiv.org/abs/2205.12870). [[dataset]](https://github.com/chevalierNoir/OpenASL)
 
+- Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets. *NeurIPS 2022*. [[paper]](https://openreview.net/forum?id=zBBmV-i84Go). [[Unlabeled pretraining datasets]](https://openhands.ai4bharat.org/en/latest/instructions/self_supervised.html). [[abel-aligned ISLR and finger-spelling pose-based datasets]](https://openhands.ai4bharat.org/en/latest/instructions/datasets.html)
+
 ### Paper List
 
 #### 2018
