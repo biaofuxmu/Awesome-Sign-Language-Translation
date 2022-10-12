@@ -70,7 +70,7 @@ This repository is continuously updating...
 - A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. *CVPR 2022*. [[paper]](https://arxiv.org/pdf/2203.04287).
 
 - ConSLT: A Token-level Contrastive Framework for Sign Language Translation. *Arxiv 2022*. [[paper]](https://arxiv.org/pdf/2204.04916).
-- Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. *WACV 2022*. [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.pdf).
+
 - Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. *Findings of NAACL2022*. [[paper]](https://arxiv.org/pdf/2204.05953). [[code]](https://github.com/yongcaoplus/TIN-SLT).
 - Keypoint based Sign Language Translation without Glosses. *IEEE Sensors Journals 2022*. [[paper]](https://arxiv.org/pdf/2204.10511). [[code]](https://github.com/winston1214/Sign-Language-project).
 - MLSLT: Towards Multilingual Sign Language Translation. *CVPR 2022*. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf). [[code]](https://github.com/MLSLT/MLSLT)
