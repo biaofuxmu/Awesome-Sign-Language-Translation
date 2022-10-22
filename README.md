@@ -51,13 +51,13 @@ This repository is continuously updating...
 
 - Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. *IEEE TMM 2021*. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538).
 
-- PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution. *IEEE TMM 2021*. [[paper]](https://arxiv.org/pdf/2107.12600). [[code]](https://github.com/PanXiebit/PiSLRTc)
+- PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution. *IEEE TMM 2021*. [[paper]](https://arxiv.org/pdf/2107.12600). [[code]](https://github.com/PanXiebit/PiSLRTc).
 
 - Enhancing Neural Sign Language Translation by highlighting the facial expression information. *Neurocomputing 2021*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221012698).
 
 - Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475456).
 
-- SimulSLT: End-to-End Simultaneous Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475544).
+- SimulSLT: End-to-End Simultaneous Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475544). [[code]](https://github.com/Robert0125/SimulSLT).
 
 - Skeleton-Aware Neural Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475577).
 
