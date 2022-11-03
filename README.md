@@ -71,7 +71,16 @@ This repository is continuously updating...
 
 - ConSLT: A Token-level Contrastive Framework for Sign Language Translation. *Arxiv 2022*. [[paper]](https://arxiv.org/pdf/2204.04916).
 
+- Prior Knowledge and Memory Enriched Transformer for Sign Language Translation. *Findings of ACL 2022*. [[paper]](https://aclanthology.org/2022.findings-acl.297/).
+
 - Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. *Findings of NAACL2022*. [[paper]](https://arxiv.org/pdf/2204.05953). [[code]](https://github.com/yongcaoplus/TIN-SLT).
+
 - Keypoint based Sign Language Translation without Glosses. *IEEE Sensors Journals 2022*. [[paper]](https://arxiv.org/pdf/2204.10511). [[code]](https://github.com/winston1214/Sign-Language-project).
+
 - MLSLT: Towards Multilingual Sign Language Translation. *CVPR 2022*. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf). [[code]](https://github.com/MLSLT/MLSLT)
+
 - SLTUNET: A Simple Unified Model for Sign Language Translation. *Under review at ICLR2023*. [[paper]](https://openreview.net/forum?id=EBS4C77p_5S).
+
+- MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. *ACM MM2022*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548069).
+
+- Two-Stream Network for Sign Language Recognition and Translation. *NeurIPS2022*. [[paper]](https://arxiv.org/abs/2211.01367).
