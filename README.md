@@ -55,11 +55,11 @@ This repository is continuously updating...
 
 - Enhancing Neural Sign Language Translation by highlighting the facial expression information. *Neurocomputing 2021*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221012698).
 
-- Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475456).
+- Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation. *ACM MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475456).
 
-- SimulSLT: End-to-End Simultaneous Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475544). [[code]](https://github.com/Robert0125/SimulSLT).
+- SimulSLT: End-to-End Simultaneous Sign Language Translation. *ACM MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475544). [[code]](https://github.com/Robert0125/SimulSLT).
 
-- Skeleton-Aware Neural Sign Language Translation. *MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475577).
+- Skeleton-Aware Neural Sign Language Translation. *ACM MM 2021*. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475577).
 
 - Transcribing Natural Languages for The Deaf via Neural Editing Programs. *Arxiv 2021*. [[paper]](https://arxiv.org/abs/2112.09600).
 
